@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Pizza",
+        "image": "https://res.cloudinary.com/dkozkr8uo/image/upload/v1673614299/samples/Ashish%20sati/Pizza1_naegi4.jpg",
+        "subItemsData": {
+            "name": "Tasty Pizzas",
+            "subItems": [
+                {
+                    "name": "Tomato Basil Italian Pizza",
+                    "image": "https://res.cloudinary.com/dkozkr8uo/image/upload/v1673614318/samples/Ashish%20sati/Pizza2_lrngvq.jpg",
+                    "price": "450",
+                    "description": "Dressed with oil, the origanum and garlic cloves"
+                },
+                {
+                    "name": "Bombay Pizza",
+                    "image": "https://res.cloudinary.com/dkozkr8uo/image/upload/v1673614339/samples/Ashish%20sati/Pizza3_rxwl8t.jpg",
+                    "price": "550",
+                    "description": "Spicy tomato sauce with Italian herbs, mushrooms,onion, cottage cheese, coriander and mozzarella"
+                },
+                {
+                    "name": "Sicilia Pizza",
+                    "image": "https://res.cloudinary.com/dkozkr8uo/image/upload/v1673614372/samples/Ashish%20sati/Pizza4_ghnsbq.jpg",
+                    "price": "450",
+                    "description": "A thick base pizza with fresh tomato sauce, mushrooms, garlic, pickled onions"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Burger",
+        "image": "https://res.cloudinary.com/dkozkr8uo/image/upload/v1673614273/samples/Ashish%20sati/Burger4_nkmffs.jpg",
+        "subItemsData": {
+            "name": "Crispy Burgers",
+            "subItems": [
+                {
+                    "name": "Fried Chicken Burger",
+                    "image": "https://res.cloudinary.com/dkozkr8uo/image/upload/v1673614247/samples/Ashish%20sati/Burger3_bd9xuw.jpg",
+                    "price": "450",
+                    "description": "Old School Chicken Burger"
+                },
+                {
+                    "name": "Paneer Tikka Burger",
+                    "image": "https://res.cloudinary.com/dkozkr8uo/image/upload/v1673614210/samples/Ashish%20sati/Burger2_oud4kf.jpg",
+                    "price": "450",
+                    "description": "Spicy Paneer, Onion, Tomato, Mozerella Cheese"
+                },
+                {
+                    "name": "Chicken Classic Cheese Burger",
+                    "image": "https://res.cloudinary.com/dkozkr8uo/image/upload/v1673614054/samples/Ashish%20sati/Burger1_hufvin.jpg",
+                    "price": "550",
+                    "description": "Aged cheddar, sweet pickle, tomato, red onion"
+                }
+            ]
+        }
+    }
+]
